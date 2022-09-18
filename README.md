@@ -10,4 +10,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr-World&layout=compact&theme=radical&border_radius=10)](https://github.com/Pr-World?tab=repositories)
 
+## Finished projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr-World&repo=flappy-bird&theme=radical&show_owner=true&border_radius=10)](https://github.com/Pr-World/flappy-bird)
