@@ -14,4 +14,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr-World&repo=flappy-bird&theme=radical&show_owner=true&border_radius=10)](https://github.com/Pr-World/flappy-bird)
 
-check : <a href='javascript:alert(1)'>Haha just a funny test ;)</a>
+check : <a href='mailto:apapap@gmail.com'>Haha just a funny test ;)</a>
